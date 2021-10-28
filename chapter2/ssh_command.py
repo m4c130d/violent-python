@@ -1,5 +1,4 @@
 import pexpect
-import time
 
 PROMPT = ['#', '>>> ', '> ', '\$ ']
 
